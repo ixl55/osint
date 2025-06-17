@@ -49,7 +49,7 @@ The bot is running on a very small server, please wait and do not press it repea
 The server will be improved in the coming period
 
 
-<img src="https://th.bing.com/th/id/R.ba83d4b3fd2099e44fe580d519e08037?rik=NJoyNWb%2boU7wXQ&pid=ImgRaw&r=0" width="300">
+<img src="https://th.bing.com/th/id/R.ba83d4b3fd2099e44fe580d519e08037?rik=NJoyNWb%2boU7wXQ&pid=ImgRaw&r=0" width="350">
 
 
 

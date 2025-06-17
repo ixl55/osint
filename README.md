@@ -6,10 +6,15 @@ Its goal is to facilitate access to general and useful data about individuals, d
 It helps security analysts, digital investigative professionals, and researchers collect information from open sources such as:
 
 1-Domain name analysis
+
 2-Track social accounts
+
 3-URL Linkanalysis
+
 4-Checking IP addresses
+
 5-Check for email leaks
+
 6-Check for phone leaks
 
 # 🎯Main features
